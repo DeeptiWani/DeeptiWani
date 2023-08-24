@@ -1,8 +1,8 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif)](http://deeptiwani.io)
 <h1 align="center">Hi 👋, I'm Deepti Wani</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="github.gif">
-- 🔭 I’m currently working on **Hospital Management System**
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+- 🔭 I’m currently working on Hospital Management System
 
 - 🌱 I’m currently learning **Frameworks**
 
