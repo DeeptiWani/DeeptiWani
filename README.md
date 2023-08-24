@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/8729ab42eff4b02340110eefbd044eb7/e0f2c2a945c17afd-1b/s640x960/87961ade82af84ca0f41fb5c2067b4375d58151c.gif)](http://deeptiwani.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif)](http://deeptiwani.io)
 <h1 align="center">Hi 👋, I'm Deepti Wani</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="github.gif">
