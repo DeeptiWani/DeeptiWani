@@ -1,8 +1,9 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Deepti Wani</h1>
 <h3 align="center">
-  Truly passionate about coding and learning new technologies and hope to contribute significantly in this field in the future. 
-  Eagerly looking for a placement in elite tech companies and am always in need of a referral, which might help in my purpose.
+  As a dedicated full stack developer, I am passionate about building seamless and scalable web applications. I thrive in dynamic environments and am excited about opportunities to collaborate with innovative 
+  teams at leading tech companies to deliver impactful solutions.
+
 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
