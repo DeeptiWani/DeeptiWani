@@ -5,7 +5,8 @@
   teams at leading tech companies to deliver impactful solutions.
 
 </h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1OjsF-wHEFYlLIURfdYeJprYcemhaZ5cf/view?usp=drive_link">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 - 💬 Ask me about *Competitive Coding, Data Structures and Algorithms, OOPs, DBMS, Java, and Full Stack Web Development*
 
