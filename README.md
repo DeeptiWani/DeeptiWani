@@ -68,8 +68,4 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilam1406&show_icons=true&locale=en&layout=compact" alt="nilam1406" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilam1406&show_icons=true&locale=en" alt="nilam1406" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilam1406&" alt="nilam1406" /></p>
