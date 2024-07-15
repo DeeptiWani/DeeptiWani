@@ -3,7 +3,7 @@
 <h3 align="center">Truly passionate about coding and learning new technologies and hope to contribute significantly in this field in the future. Eagerly looking for a placement in elite tech companies and am always in need of a referral, which might help in my purpose.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilam1406&label=Profile%20views&color=0e75b6&style=flat" alt="nilam1406" /> </p>
+/*<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilam1406&label=Profile%20views&color=0e75b6&style=flat" alt="nilam1406" /> </p>*/
 
 - 💬 Ask me about *Competitive Coding, Data Structures and Algorithms, OOPs, DBMS, Java, and Full Stack Web Development*
 
