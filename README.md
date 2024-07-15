@@ -5,7 +5,7 @@
   teams at leading tech companies to deliver impactful solutions.
 
 </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1OjsF-wHEFYlLIURfdYeJprYcemhaZ5cf/view?usp=drive_link">
 
 - 💬 Ask me about *Competitive Coding, Data Structures and Algorithms, OOPs, DBMS, Java, and Full Stack Web Development*
 
@@ -67,5 +67,8 @@
   </a>
   <a href="https://docs.oracle.com/javaee/7/tutorial/jsp.htm" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="jsp" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
