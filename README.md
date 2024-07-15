@@ -1,15 +1,13 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
-<h1 align="center">Hi 👋, I'm Nilam Wadhavane</h1>
+<h1 align="center">Hi 👋, I'm Deepti Wani</h1>
 <h3 align="center">Truly passionate about coding and learning new technologies and hope to contribute significantly in this field in the future. Eagerly looking for a placement in elite tech companies and am always in need of a referral, which might help in my purpose.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilam1406&label=Profile%20views&color=0e75b6&style=flat" alt="nilam1406" /> </p>
 
-- 🌱 I’m currently learning *Advance Data Structures and Algorithms, WordPress Development, Artificial intelligence and Machine Learning, Data Science, Cloud Computing*
+- 💬 Ask me about *Competitive Coding, Data Structures and Algorithms, OOPs, DBMS, Java, and Full Stack Web Development*
 
-- 💬 Ask me about *Competitive Coding, Data Structures and Algorithms, OOPs, DBMS, Java, and Web Development*
-
-- 📫 How to reach me *nilamwadhavane123@gmail.com*
+- 📫 How to reach me *wanideepti44@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
